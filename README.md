@@ -2,7 +2,7 @@
 
 **Draw anything, and Ollie the Owl guesses what it is, live, as you draw.**
 
-### ▶️ [Play it here](YOUR_NETLIFY_LINK)
+### ▶️ [Play it here](doddleguesser.netlify.app)
 
 ![Challenge mode: Ollie guesses a drawing while the timer runs](screenshots/challenge-mode.png)
 
